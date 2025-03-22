@@ -132,3 +132,4 @@ Save the user’s last searched city in local storage for convenience.
 Multiple APIs:
 
 Integrate additional APIs (e.g., news, movies) to make the app more versatile.
+"OUTPUT":![Image](https://github.com/user-attachments/assets/2d2bacea-36a6-41d3-a45c-5908d81c786a)
